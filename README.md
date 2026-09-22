@@ -5,11 +5,4 @@ My name is Joshua Rashtian, a Computer Science Student at Cal Poly San Luis Obis
 
 ## Tech Toolbox
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
-![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
-![Render](https://img.shields.io/badge/-Render-%2346E3B7?style=flat-square&logo=render&logoColor=ffffff)
+<p> <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" alt="JavaScript" title="JavaScript" /> <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" alt="TypeScript" title="TypeScript" /> <img height="32" width="32" src="https://cdn.simpleicons.org/react" alt="React / React Native" title="React / React Native" /> <img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs" alt="Next.js" title="Next.js" /> <img height="32" width="32" src="https://cdn.simpleicons.org/svelte" alt="SvelteKit" title="SvelteKit" /> <img height="32" width="32" src="https://cdn.simpleicons.org/supabase" alt="Supabase" title="Supabase" /> <img height="32" width="32" src="https://cdn.simpleicons.org/rust" alt="Rust" title="Rust" /> <img height="32" width="32" src="https://cdn.simpleicons.org/tauri" alt="Tauri" title="Tauri" /> </p>
