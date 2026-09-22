@@ -1,5 +1,4 @@
-<h1>Howdy There!</h1>
-<p>My name is Joshua Rashtian, and I am a Software Engineer from Santa Clarita Valley, California. I aspire to be a very creative programmer who helps as many people by using technology to make the lives of everybody better!</p>
+# Think Rashtianly.
+My name is Joshua Rashtian, a Computer Science Student at Cal Poly San Luis Obispo, California. Originally from Los Angeles, my goal is to use technologies to create experiences and make the world a better place.
 
-<h2>View this repository for more information!</h2>
-
+[![mesaconnect](https://svg.bookmark.style/api?url=https://www.mesaconnect.io&mode=light&style=horizontal)](https://www.mesaconnect.io)
